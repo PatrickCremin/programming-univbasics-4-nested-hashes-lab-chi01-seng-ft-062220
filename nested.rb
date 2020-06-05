@@ -92,7 +92,8 @@ def adding_matz
       }
     }
     
-    programmer_hash.merge()
+    programmer_hash.merge((:yukihiro_matsumoto => {
+      )
 
 end
 
