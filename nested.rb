@@ -120,7 +120,7 @@ def changing_alan
       }
     }
     
-    programmer_hash.merge()
+    programmer_hash.merge[:alan_kay][:known_for] = 
 
 end
 
